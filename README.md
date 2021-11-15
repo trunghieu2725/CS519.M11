@@ -5,5 +5,5 @@ The course aims to equip students with the basic knowledge of science and scient
 
 # About the member of the group
 1. Bùi Đào Gia Huy, Computer Science class 2018.
-2. Nguyễn Trần Trung Hiếu, Computer Science class 2016.
-3. Nguyễn Thanh Hoàng, Computer Networks and Data Communications class 2016.
+2. [Nguyễn Trần Trung Hiếu](https://link-url-here.org), Computer Science class 2016.
+3. [Nguyễn Thanh Hoàng](https://link-url-here.org), Computer Networks and Data Communications class 2016.
