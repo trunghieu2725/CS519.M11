@@ -10,7 +10,7 @@ các bài toán trong tin học; áp dụng các thủ thuật sáng tạo trong
 phương pháp suy luận, tư duy giả thuyết khoa học; cách viết bài báo khoa học, và sau 
 cùng là các vấn đề liên quan đến đạo đức của người làm khoa học.
 
-# About the member of the group
-1. Bùi Đào Gia Huy, Computer Science class 2018.
-2. [Nguyễn Trần Trung Hiếu](https://link-url-here.org), Computer Science class 2016.
-3. [Nguyễn Thanh Hoàng](https://link-url-here.org), Computer Networks and Data Communications class 2016.
+# Các thành viên của nhóm
+1. Bùi Đào Gia Huy, Khoa học máy tính 2018.
+2. [Nguyễn Trần Trung Hiếu](https://link-url-here.org), Khoa học máy tính 2016.
+3. [Nguyễn Thanh Hoàng](https://link-url-here.org), Mạng máy tính và truyền thông 2016.
