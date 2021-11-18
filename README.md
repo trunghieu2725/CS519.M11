@@ -1,5 +1,7 @@
 # CS519.M11
 
+![Screenshot](screenshot.png)
+
 # Giới thiệu môn học
 Môn học hướng về việc trang bị cho sinh viên những kiến thức cơ bản về khoa học và 
 nghiên cứu khoa học nhằm mục đích nâng cao chất lượng của các đề cương và các luận 
