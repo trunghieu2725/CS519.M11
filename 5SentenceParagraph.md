@@ -1,5 +1,7 @@
 # **5 Sentence Paragraph**
 
+Bài luận 5 đoạn văn là dạng viết có thể giúp tác giả sắp xếp suy nghĩ của họ, viết rõ ràng và trình bày thông tin theo cách mà người đọc dễ hiểu. 
+
 **1. Giới thiệu**
 
   Giới thiệu tổng quan về chủ đề.
