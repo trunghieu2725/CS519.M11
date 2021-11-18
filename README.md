@@ -1,6 +1,6 @@
 # CS519.M11
 
-![Screenshot](screenshot.png)
+![](research_methodology.jpg)
 
 # Giới thiệu môn học
 Môn học hướng về việc trang bị cho sinh viên những kiến thức cơ bản về khoa học và 
